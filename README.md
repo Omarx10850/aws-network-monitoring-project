@@ -1,5 +1,5 @@
 # AWS Network Monitoring Project
-A cloud-based network monitoring infrastructure built on AWS, provisioned with Terraform, and automated with Python. Built to demonstrate cloud and NetDevOps skills relevant to NOC and network engineering roles at UK ISPs and telcos.
+A cloud-based network monitoring infrastructure built on AWS, provisioned with Terraform, and automated with Python. Built to demonstrate cloud and NetDevOps skills relevant to network engineering as well as hands-on as well as in-depth practise in preperation for the upcoming AWS Cloud Practitioner Certificate.
 
 ---
 ## Architecture
