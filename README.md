@@ -31,4 +31,4 @@ A cloud-based network monitoring infrastructure built on AWS, provisioned with T
 | Zabbix Agent | Network monitoring agent |
 
 ---
-*This project is built incrementally across 11 phases. Each phase adds a new layer of infrastructure, automation, or observability.*
+*This project is built incrementally across 11 phases, for ease of development. Each phase adds a new layer of infrastructure, automation, or observability.*
