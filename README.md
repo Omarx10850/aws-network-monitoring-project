@@ -1,5 +1,3 @@
-# aws-network-monitoring-project
-
 # AWS Network Monitoring Project
 
 A cloud-based network monitoring infrastructure built on AWS,
